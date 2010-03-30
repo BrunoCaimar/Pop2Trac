@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pop2TicketLibrary", "Pop2TicketLibrary\Pop2TicketLibrary.csproj", "{7FE4744D-6E31-4713-89D9-A8AB107F9051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pop2Trac", "Pop2Trac\Pop2Trac.csproj", "{AD4E0B4B-4D6E-4BE8-B467-71F62C4E60B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE4744D-6E31-4713-89D9-A8AB107F9051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE4744D-6E31-4713-89D9-A8AB107F9051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE4744D-6E31-4713-89D9-A8AB107F9051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE4744D-6E31-4713-89D9-A8AB107F9051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4E0B4B-4D6E-4BE8-B467-71F62C4E60B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4E0B4B-4D6E-4BE8-B467-71F62C4E60B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4E0B4B-4D6E-4BE8-B467-71F62C4E60B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4E0B4B-4D6E-4BE8-B467-71F62C4E60B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
